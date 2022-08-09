@@ -1,3 +1,3 @@
 # Sound-array-design-sch-and-pcb
-[PCB_PCB_mic_array0.pdf](https://github.com/wbbbbbb123/Sound-array-design-sch-and-pcb/files/9290218/PCB_PCB_mic_array0.pdf)
+![image](https://user-images.githubusercontent.com/71707557/183643900-20257b39-b91a-4560-8507-4941bcc8f193.png)
 
